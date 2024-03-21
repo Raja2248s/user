@@ -2,10 +2,25 @@
     "user":[
         {
             "id":1,
-            "name":"Admin user",
+            "name":"Admin user 1",
+            "role":"admin",
+            "email":"admin@in.com",
+            "phone":"9172303728"
+        },
+         {
+            "id":2,
+            "name":"Admin user 1",
+            "role":"admin",
+            "email":"admin@in.com",
+            "phone":"9172303728"
+        },
+         {
+            "id":1,
+            "name":"Admin user 3",
             "role":"admin",
             "email":"admin@in.com",
             "phone":"9172303728"
         }
+        
     ]
 }
