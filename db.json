@@ -1,4 +1,8 @@
 {
-    "username": "karn.yong@mecallapi.com",    
-    "password": "mecallapi"
+  "users": [
+    {
+      "username": "karn.yong@mecallapi.com",
+      "passwordHash": "mecallapi"
+    }
+  ]
 }
